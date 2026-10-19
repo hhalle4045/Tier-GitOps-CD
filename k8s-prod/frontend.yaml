@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: hhalle/frontend:d47b5537f021bc8cf1aecdc4d9fc50c3bf625e1a
+          image: hhalle/frontend:9c2c2b67deca2cfce639bea29eb209abe5825018
           ports:
             - containerPort: 80
 ---
